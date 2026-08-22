@@ -174,8 +174,8 @@ I am currently interested in opportunities as:
 
 ## Connect With Me
 
-- LinkedIn: [linkedin.com/in/msp86](https://www.linkedin.com/in/mspopov-dev)
-- GitHub: [github.com/ms-ppv](https://github.com/mspopov-dev)
+- LinkedIn: [linkedin.com/in/mspopov-dev](https://www.linkedin.com/in/mspopov-dev)
+- GitHub: [github.com/mspopov-dev](https://github.com/mspopov-dev)
 - Email: [michael.ppv86@gmail.com](mailto:michael.ppv86@gmail.com)
 
 ---
