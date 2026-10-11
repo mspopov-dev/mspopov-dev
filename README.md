@@ -2,13 +2,13 @@
 
 I spent 11 years in IT management (2011–2022): infrastructure, information security, and the teams that keep systems running. Now I'm on the other side of the ticket, writing the code myself.
 
-Since 2023 I've worked as a manufacturing technician at Boston Scientific, setting up and troubleshooting laser and optical equipment. In parallel I'm studying in the Full Stack Developer program at Tel-Ran (Haifa), currently focused on backend: Node.js, Express, REST APIs and testing. I'm looking for my first role as a Junior Full Stack or Backend Developer in Israel.
+Since 2023 I've worked as a manufacturing technician at Boston Scientific, setting up and troubleshooting laser and optical equipment. In September 2026 I completed the Full Stack Development course at Tel-Ran (447 hours), with a focus on backend: Node.js, Express, REST APIs, Java and SQL. I'm looking for my first role as a Junior Full Stack or Backend Developer in Israel.
 
 ## What I work with
 
 **Daily in my projects:** JavaScript (ES6+), Node.js, Express, REST APIs, Jest, Git, HTML, CSS, React
 
-**Learning now:** SQL and PostgreSQL, Python, Django
+**Also studied:** Java (Core Java), SQL and PostgreSQL, Python, Django
 
 ## Projects
 
@@ -31,7 +31,7 @@ That experience shapes how I write code. I think about what happens when it fail
 
 ## Education
 
-- **Full Stack Developer Program** — Tel-Ran, Israel (2025 – present)
+- **Full Stack Development, 447 hours** — Tel-Ran, Israel (Sep 2025 – Sep 2026)
 - **Engineer's degree, Automated Information Processing & Control Systems** — St. Petersburg Higher Military School of Air Defense Radio Electronics (2008)
 
 ## Languages
