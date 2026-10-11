@@ -1,186 +1,45 @@
-# Mikhail Popov
+# Hi, I'm Mikhail 👋
 
-**Full Stack Developer | JavaScript | React.js | Node.js | Python | SQL**
+I spent 12+ years running IT infrastructure: servers, networks, security, and the people who keep them working. Now I'm on the other side of the ticket, writing the code myself.
 
-Full Stack Developer with a strong background in **IT engineering, system integration, cybersecurity, infrastructure, and technology leadership**.
+I'm studying in the Full Stack Developer program at Tel-Ran (Haifa) and currently focused on backend: Node.js, Express, REST APIs and testing. I'm looking for my first role as a Junior Full Stack or Backend Developer in Israel.
 
-Currently completing the **Full Stack Developer Program at Tel-Ran Educational Center** and building practical web development projects across frontend, backend, REST APIs, and databases.
+## What I work with
 
----
+**Daily in my projects:** JavaScript (ES6+), Node.js, Express, REST APIs, Jest, Git, HTML, CSS, React
 
-## Tech Stack
+**Learning now:** SQL and PostgreSQL, Python, Django
 
-### Frontend
-- JavaScript ES6+
-- React.js
-- HTML5
-- CSS3
-- DOM
-- Fetch API
-- Responsive Web Design
+## Projects
 
-### Backend
-- Node.js
-- Express.js
-- Python
-- Django
-- REST APIs
-- JSON
+### [student-service](https://github.com/mspopov-dev/student-service)
+REST API for students and exam scores. Express 5, split into routes, controllers, services and a repository layer. Covers CRUD, search by name and filtering by exam score.
 
-### Databases
-- SQL
-- PostgreSQL
-- MySQL
+### [02-test](https://github.com/mspopov-dev/02-test)
+Input validators for card numbers, dates and phone numbers built with regular expressions, covered by Jest unit tests.
 
-### Tools & Engineering
-- Git
-- GitHub
-- Jira
-- Confluence
-- Agile / Scrum
-- Object-Oriented Programming
-- Algorithms
-- Data Structures
-- Debugging
-- Refactoring
-- SDLC
+### [study-fullstack34-64](https://github.com/mspopov-dev/study-fullstack34-64)
+My course exercises and homework, one folder per topic. It's a working notebook, so you'll see how the code changes as I learn.
 
----
+## What I bring from IT operations
 
-## Current Focus
+- Led a 40-person IT services team supporting a national monitoring platform that ran 24/7.
+- Managed a 52-person department responsible for 15 information systems.
+- Worked across government, banking and enterprise environments: infrastructure, system integration, cybersecurity.
 
-I am currently focused on:
-
-- Building modern Full Stack web applications
-- Developing reusable React components
-- Creating and integrating REST APIs
-- Backend development with Node.js and Python
-- Working with SQL databases
-- Improving application architecture and clean code practices
-- Strengthening debugging and problem-solving skills
-- Expanding my GitHub portfolio with practical development projects
-
----
-
-## Featured Projects
-
-### Library Management Web Application
-
-JavaScript web application for managing a library catalogue.
-
-**Key features:**
-- Add and remove book records
-- ISBN uniqueness validation
-- Dynamic DOM rendering
-- Event-driven user interactions
-- Automated library statistics
-- Average, minimum, and maximum publication year calculations
-
-**Tech Stack:**  
-`JavaScript ES6+` `HTML5` `CSS3` `DOM`
-
----
-
-### Full Stack Development Studies
-
-A growing collection of practical exercises and projects completed as part of my Full Stack Developer studies at Tel-Ran Educational Center.
-
-**Current areas of practice:**
-- React components
-- Props and state
-- React Hooks
-- Forms and validation
-- API integration
-- async / await
-- Error handling
-- Node.js / Express.js
-- Python / Django
-- SQL databases
-- Git and GitHub workflows
-
-Repository:
-
-[study-fullstack34-64](https://github.com/mspopov-dev/study-fullstack34-64)
-
----
-
-## Professional Background
-
-Before focusing on software development, I built **12+ years of experience in enterprise IT environments**.
-
-My background includes:
-
-- IT engineering
-- System integration
-- Cybersecurity
-- Infrastructure management
-- Software delivery coordination
-- Requirements analysis
-- Technical documentation
-- IT service management
-- Production system reliability
-
-As **Head of IT Services**, I managed a **40-person technical team** and coordinated software, infrastructure, system administration, and technical support for a national-scale monitoring platform operating in a **24/7 production environment**.
-
-I have also managed a **52-person multidisciplinary department** and supported the operation of **15 information systems**.
-
-This background gives me a strong understanding of reliable systems, structured problem-solving, cross-functional collaboration, technical documentation, and the full software development lifecycle.
-
----
+That experience shapes how I write code. I think about what happens when it fails, who will maintain it, and whether the next person can read it.
 
 ## Education
 
-### Full Stack Developer Program
-**Tel-Ran Educational Center, Israel**  
-2025 – Present
-
-Focus:
-- Frontend Development
-- Backend Development
-- REST API Integration
-- Databases
-- Software Engineering Practices
-
-### Automated Information Processing & Control Systems Engineering
-**St. Petersburg Higher Military Academy**
-
-Engineering background in:
-- Automated systems
-- Information processing
-- Computer networks
-- Programming fundamentals
-
----
+- **Full Stack Developer Program** — Tel-Ran, Israel (2025 – present)
+- **Engineering degree, Automated Information Processing & Control Systems** — St. Petersburg Higher Military Academy
 
 ## Languages
 
-- Russian — Native
-- Hebrew — B2
-- English — B1
+Russian (native) · Hebrew (B2) · English (B1)
 
----
+## Contact
 
-## Open to Opportunities
+[LinkedIn](https://www.linkedin.com/in/mspopov-dev) · [michael.ppv86@gmail.com](mailto:michael.ppv86@gmail.com)
 
-I am currently interested in opportunities as:
-
-- Full Stack Developer
-- Software Developer
-- Frontend Developer
-- Backend Developer
-- Software Engineer
-
----
-
-## Connect With Me
-
-- LinkedIn: [linkedin.com/in/mspopov-dev](https://www.linkedin.com/in/mspopov-dev)
-- GitHub: [github.com/mspopov-dev](https://github.com/mspopov-dev)
-- Email: [michael.ppv86@gmail.com](mailto:michael.ppv86@gmail.com)
-
----
-
-## About This Profile
-
-This GitHub profile documents my transition deeper into software development and my progress in building practical Full Stack applications.
-
+Open to Junior Full Stack, Backend and Frontend Developer roles.
