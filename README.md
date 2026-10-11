@@ -1,8 +1,8 @@
 # Hi, I'm Mikhail 👋
 
-I spent 12+ years running IT infrastructure: servers, networks, security, and the people who keep them working. Now I'm on the other side of the ticket, writing the code myself.
+I spent 11 years in IT management (2011–2022): infrastructure, information security, and the teams that keep systems running. Now I'm on the other side of the ticket, writing the code myself.
 
-I'm studying in the Full Stack Developer program at Tel-Ran (Haifa) and currently focused on backend: Node.js, Express, REST APIs and testing. I'm looking for my first role as a Junior Full Stack or Backend Developer in Israel.
+Since 2023 I've worked as a manufacturing technician at Boston Scientific, setting up and troubleshooting laser and optical equipment. In parallel I'm studying in the Full Stack Developer program at Tel-Ran (Haifa), currently focused on backend: Node.js, Express, REST APIs and testing. I'm looking for my first role as a Junior Full Stack or Backend Developer in Israel.
 
 ## What I work with
 
@@ -25,14 +25,14 @@ My course exercises and homework, one folder per topic. It's a working notebook,
 
 - Led a 40-person IT services team supporting a national monitoring platform that ran 24/7.
 - Managed a 52-person department responsible for 15 information systems.
-- Worked across government, banking and enterprise environments: infrastructure, system integration, cybersecurity.
+- Headed information security at a commercial bank (2011–2012).
 
 That experience shapes how I write code. I think about what happens when it fails, who will maintain it, and whether the next person can read it.
 
 ## Education
 
 - **Full Stack Developer Program** — Tel-Ran, Israel (2025 – present)
-- **Engineering degree, Automated Information Processing & Control Systems** — St. Petersburg Higher Military Academy
+- **Engineer's degree, Automated Information Processing & Control Systems** — St. Petersburg Higher Military School of Air Defense Radio Electronics (2008)
 
 ## Languages
 
